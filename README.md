@@ -11,23 +11,10 @@ conda create -n nemmers python=3.10
 ```
 conda activate nemmers
 ```
-* Install Obspy 
+* Install required packages (obspy, scikit-learn, seisbench, and jupyter notebook) and their dependencies 
 ```
 conda install conda-forge::obspy
-```
-* Install scikit-learn  
-```
 conda install conda-forge::scikit-learn
-```
-* Install Seisbench 
-```
 pip install seisbench
-```
-* Install Jupyter Notebook
-```
 pip install notebook
-```
-* Download the SeismoML_Workshop repository
-```
-git clone https://github.com/am-thomas/SeismoML_Workshop.git
 ```
