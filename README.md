@@ -2,7 +2,7 @@
 Materials for Nemmers Workshop 2024: Machine Learning in Seismology
 
 ## Installation 
-* Download [Miniconda](https://docs.anaconda.com/free/miniconda/miniconda-install/) for your operating system. You can skip the optional step 2.
+* Download [Miniconda](https://docs.anaconda.com/free/miniconda/miniconda-install/) for your operating system if you do not have conda. You can skip the optional step 2 in the Miniconda download instructions.
 * Open Terminal (Mac/Linux) or the Anaconda Prompt (Windows). Create a new conda environment by running the following command 
 ```
 conda create -n nemmers python=3.10
