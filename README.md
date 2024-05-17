@@ -16,7 +16,13 @@ conda activate nemmers
 * Install required packages (obspy, scikit-learn, seisbench, and jupyter notebook) and their dependencies 
 ```
 conda install -c conda-forge obspy
+```
+```
 pip install scikit-learn
+```
+```
 pip install seisbench
+```
+```
 pip install notebook
 ```
